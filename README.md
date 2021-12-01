@@ -7,7 +7,7 @@ A marketing agency has created a ticket and would like their existing code refac
 ```
 
 ## Table of Contents
-If your README is long, add a table of contents to make it easy for users to find what they need.
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Links](#links)
@@ -15,7 +15,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [License](#license)
 
 ## Installation
-
 
 * Upon looking at the index.html I firstly saw the images had no alt codes. 
 
@@ -40,6 +39,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 ![CSS Screenshot](./assets/images/CSS-screenshot2.jpg)
 
 4. Rearranged h1,h2,h3 into sequential order to follow semantic HTML elements
+
+5. For additional visibility I added a new class hover which actioned the nav bar to change colour and underline when cursor is hovering over a link.
 
 ## Links
 https://github.com/xCaitx/Refactoring-existing-code-for-search-engine-optimisation.git
