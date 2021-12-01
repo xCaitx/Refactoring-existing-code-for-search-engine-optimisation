@@ -1,10 +1,8 @@
 # Ticket #0001 - Horiseo Pty Ltd
 
 ## Refactoring existing code for search engine optimisation
-
- ```
+ 
 A marketing agency has created a ticket and would like their existing code refactored so that it follows accessibility standards with the outcome optimisised for serach engines. 
-```
 
 ## Table of Contents
 
