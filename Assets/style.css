@@ -17,6 +17,10 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+.footer h2 {
+    margin-bottom: 0;
+}
+
 
 h3 {
     margin-bottom: 10px;
@@ -37,7 +41,7 @@ h3 {
 .header h1 .seo {
     color: #d9dcd6;
 }
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -136,7 +140,3 @@ p {
     text-align: center;
 }
 
-.footer h2 {
-    font-size: 20px;
-    margin-bottom: 0;
-}
