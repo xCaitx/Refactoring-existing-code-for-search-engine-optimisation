@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* keep headings in sequential order */
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -17,6 +18,7 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 .footer h2 {
     margin-bottom: 0;
 }
@@ -101,6 +103,7 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidate sections with the same code */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
